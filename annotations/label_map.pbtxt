@@ -1,0 +1,109 @@
+item {
+    id: 1
+    name: 'dustbin'
+}
+
+item {
+    id: 2
+    name: 'remote'
+}
+
+item {
+    id: 3
+    name: 'laptop'
+}
+
+item {
+    id: 4
+    name: 'car'
+}
+
+item {
+    id: 5
+    name: 'cell_phone'
+}
+
+item {
+    id: 6
+    name: 'shoe'
+}
+
+item {
+    id: 7
+    name: 'lighter'
+}
+
+item {
+    id: 8
+    name: 'switch_board'
+}
+
+item {
+    id: 9
+    name: 'mouse'
+}
+
+item {
+    id: 10
+    name: 'keyboard'
+}
+
+item {
+    id: 11
+    name: 'water_tank'
+}
+
+item {
+    id: 12
+    name: 'bottle'
+}
+
+item {
+    id: 13
+    name: 'window'
+}
+
+item {
+    id: 14
+    name: 'ccTV'
+}
+
+item {
+    id: 15
+    name: 'bike'
+}
+
+item {
+    id: 16
+    name: 'bird'
+}
+
+item {
+    id: 17
+    name: 'cigarette'
+}
+
+item {
+    id: 18
+    name: 'tower'
+}
+
+item {
+    id: 19
+    name: 'broom'
+}
+
+item {
+    id: 20
+    name: 'paper_boat'
+}
+
+item {
+    id: 21
+    name: 'lcd_tv'
+}
+
+item {
+    id: 22
+    name: 'spectacles'
+}
